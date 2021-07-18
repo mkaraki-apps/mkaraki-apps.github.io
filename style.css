@@ -1,0 +1,10 @@
+.notice {
+    border: 1px solid #BA3;
+    margin: 5px;
+    padding: 5px;
+}
+
+.notice .head {
+    font-weight: bold;
+    margin-right: 2px;
+}
